@@ -4,7 +4,7 @@ var server = express();
 
 var options = {
 
-index: 'index.html'
+index: '/view/index.html'
 
 };
 
